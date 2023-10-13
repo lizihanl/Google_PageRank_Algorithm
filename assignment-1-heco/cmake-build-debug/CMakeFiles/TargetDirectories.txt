@@ -1,0 +1,3 @@
+/Users/lizihan/Documents/BCIT/COMP3522/assignment-1-heco/cmake-build-debug/CMakeFiles/assignment1template.dir
+/Users/lizihan/Documents/BCIT/COMP3522/assignment-1-heco/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lizihan/Documents/BCIT/COMP3522/assignment-1-heco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
